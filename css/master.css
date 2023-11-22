@@ -1,0 +1,107 @@
+/* Set the background color and font family for the entire body */
+body {
+    background-color: rgb(213, 76, 51);
+    font-family: Arial;
+}
+
+/* Style for the header */
+header {
+    color: white;
+    padding: 4px;
+}
+
+/* Style for the main heading */
+h1 {
+    margin: 0;
+}
+
+/* Style for paragraphs */
+p {
+    margin-top: 10px;
+}
+
+/* Style for the main  */
+main {
+    background-color: #fff;
+}
+
+/* Styles for heading elements h2 and h3 */
+h2,
+h3 {
+    padding-left: 10px;
+    color: rgb(213, 76, 51);
+    margin-top: 2px;
+}
+
+/* Additional style for h2 element */
+h2 {
+    padding-top: 30px;
+}
+
+/* Styles for anchor links */
+
+
+/* Styles for article elements */
+article {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+/* Styles for the aside element */
+aside {
+    background-color: rgba(213, 75, 51, 0.372);
+    padding: 10px 0px;
+}
+
+/* Styles for the footer */
+footer {
+    color: #fff;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+/* Styles for navigation*/
+
+nav{
+    float:right;
+    width:250px;
+}
+/* Styles for navigation buttons */
+.nav-button {
+    display:block;
+    text-decoration:none;
+    padding:5px;
+    margin:10px;
+    border:1px solid orangered;
+    border-radius:50px;
+    text-align: center;
+    
+}
+/* Styles for  span element */
+li a:link, a:visited {
+    background-color:rgb(213, 76, 51);
+    color:white;
+}
+li a:hover, a:active {
+    background-color:white;
+    color:rgb(213, 76, 51);
+}
+
+
+
+/* Styles for navigation */
+nav {
+    float: right;
+}
+
+
+/*class style for a link */
+.link-2 {
+    padding-left: 2px;
+}
+
+
+/* Remove bullet points from unordered lists */
+ul {
+    list-style-type: none;
+}
